@@ -1,226 +1,1737 @@
 #EXTM3U
-
-#EXTINF:-1,LA: 247 Canal de Noticias
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43810.ts
-#EXTINF:-1,LA: 3 ABN
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43811.ts
-#EXTINF:-1,LA: 6 DIGITAL
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43812.ts
+#EXTM3U
+#EXTINF:-1,ES: #0
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2146.ts
+#EXTINF:-1,ES: #VAMOS
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2148.ts
+#EXTINF:-1,ES: +24
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285721
+#EXTINF:-1,ES: 4 TV Vall Uxa
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285753
+#EXTINF:-1,ES: 7 La Rioja
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285723
+#EXTINF:-1,ES: 7 Murcia
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2212
+#EXTINF:-1,ES: 7 Noticias
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/283875
+#EXTINF:-1,ES: 101 Tele Antequera
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285722
+#EXTINF:-1,ES: 101 TV Malaga
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/146345
+#EXTINF:-1,ES: 324 Cat
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/165149
+#EXTINF:-1,ES: 3ABN Latino
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285921
+#EXTINF:-1,ES: 8TV Madrid
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/75902
+#EXTINF:-1,ES: A Punt
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/146343
+#EXTINF:-1,ES: A&E
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/7731
+#EXTINF:-1,ES: A3 Cine
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/283299
+#EXTINF:-1,ES: Activa TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285727
+#EXTINF:-1,ES: AFV Espanol
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/284259
+#EXTINF:-1,ES: Alacanti TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/66947
+#EXTINF:-1,ES: Alcarria TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/12153
+#EXTINF:-1,ES: AMC
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1174
+#EXTINF:-1,ES: Antena 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1173.ts
+#EXTINF:-1,ES: Aragon TV Internacional
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2758
+#EXTINF:-1,ES: Atreseries
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9102
+#EXTINF:-1,ES: AXN
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1172
+#EXTINF:-1,ES: AXN White
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1171
+#EXTINF:-1,ES: Baby TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/5302
+#EXTINF:-1,ES: Bailen TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285732
+#EXTINF:-1,ES: Barca TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1170
+#EXTINF:-1,ES: Be Mad
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2213
+#EXTINF:-1,ES: beIN Sports Xtra en Espanol
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/281493
+#EXTINF:-1,ES: beteve
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285834
+#EXTINF:-1,ES: Blaze
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/5303
+#EXTINF:-1,ES: Bloomberg TV EMEA Live Event
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285720
+#EXTINF:-1,ES: Bloomberg TV Europe
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285843
+#EXTINF:-1,ES: Boing
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1169
+#EXTINF:-1,ES: Bom Cine
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/75926
+#EXTINF:-1,ES: Bon Dia TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/165148
+#EXTINF:-1,ES: Cadena Elite
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/200665
+#EXTINF:-1,ES: Calle 13
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1168
+#EXTINF:-1,ES: Canal 10 Emporda
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285737
+#EXTINF:-1,ES: Canal 2000 La Solana
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/294891
+#EXTINF:-1,ES: Canal 24 Horas
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2216
+#EXTINF:-1,ES: Canal 25 Barbastro
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/146340
+#EXTINF:-1,ES: Canal 33
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/64938
+#EXTINF:-1,ES: Canal 56
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/270088
+#EXTINF:-1,ES: Canal Cocina
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1167
+#EXTINF:-1,ES: Canal Diocesano
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285741
+#EXTINF:-1,ES: Canal Donana
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285742
+#EXTINF:-1,ES: Canal Extremadura
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/11776
+#EXTINF:-1,ES: Canal Hollywood
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1154
+#EXTINF:-1,ES: Canal Malaga
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/12139
+#EXTINF:-1,ES: Canal Odisea
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2194
+#EXTINF:-1,ES: Canal Panda
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1166
+#EXTINF:-1,ES: Canal San Roque
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/64943
+#EXTINF:-1,ES: Canal Sierra de Cadiz
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285744
+#EXTINF:-1,ES: Canal Super 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285745
+#EXTINF:-1,ES: Canal Sur Andalucia
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2191
+#EXTINF:-1,ES: Caza y Pesca
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1165
+#EXTINF:-1,ES: Clan TVE
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2214
+#EXTINF:-1,ES: CNN en Espanol
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/31762
+#EXTINF:-1,ES: Comedy Central
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1164
+#EXTINF:-1,ES: Congreso de los Diputados 1
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285747
+#EXTINF:-1,ES: Congreso de los Diputados 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285748
+#EXTINF:-1,ES: Congreso de los Diputados 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285749
+#EXTINF:-1,ES: Congreso de los Diputados 4
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285750
+#EXTINF:-1,ES: Congreso de los Diputados 5
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285751
+#EXTINF:-1,ES: Cosmopolitan TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2215
+#EXTINF:-1,ES: Costa Noroeste TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285752
+#EXTINF:-1,ES: CostadelSol TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295246
+#EXTINF:-1,ES: Crime+ Investigation
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/5292
+#EXTINF:-1,ES: Cuatro
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1163
+#EXTINF:-1,ES: Cultura 24 TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/197864
+#EXTINF:-1,ES: D Kiss
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9356
+#EXTINF:-1,ES: Dark
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/121514.ts
+#EXTINF:-1,ES: DAZN 1
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/64711
+#EXTINF:-1,ES: DAZN 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/64712
+#EXTINF:-1,ES: DAZN 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/269912
+#EXTINF:-1,ES: DAZN 4
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/269911
+#EXTINF:-1,ES: DAZN F1
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1672
+#EXTINF:-1,ES: Decasa
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2771
+#EXTINF:-1,ES: Diez TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/269929
+#EXTINF:-1,ES: Discovery World
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1162
+#EXTINF:-1,ES: Disney Channel
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1145
+#EXTINF:-1,ES: Disney Junior
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/5299
+#EXTINF:-1,ES: Distrito TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/201938
+#EXTINF:-1,ES: Divinity
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2795
+#EXTINF:-1,ES: DMAX
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2762
+#EXTINF:-1,ES: DreamWorks TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/281787
+#EXTINF:-1,ES: El 33
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/294892
+#EXTINF:-1,ES: EL Pinguino TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/53887
+#EXTINF:-1,ES: El Toro TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/201928
+#EXTINF:-1,ES: Energy
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2217
+#EXTINF:-1,ES: Enlace TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285914
+#EXTINF:-1,ES: ESNE TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/76224
+#EXTINF:-1,ES: Esperanza TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/11119
+#EXTINF:-1,ES: ESPN
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/90708
+#EXTINF:-1,ES: ESPN 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/281480
+#EXTINF:-1,ES: ESPN 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/281403
+#EXTINF:-1,ES: ESPN Deportes
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/281417
+#EXTINF:-1,ES: Esport 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/7445
+#EXTINF:-1,ES: ETB 1
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/165969
+#EXTINF:-1,ES: ETB 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/165970
+#EXTINF:-1,ES: ETB Basque
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/50135
+#EXTINF:-1,ES: euronews en Espanol
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/282292
+#EXTINF:-1,ES: EUROSPORT 1
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1160
+#EXTINF:-1,ES: EUROSPORT 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1159
+#EXTINF:-1,ES: Factoria de Ficcion
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2207
+#EXTINF:-1,ES: FOX
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1158
+#EXTINF:-1,ES: Fox Life
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295164
+#EXTINF:-1,ES: FOX SPORTS 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/89723
+#EXTINF:-1,ES: FOX SPORTS 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/89722
+#EXTINF:-1,ES: France 24
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9148
+#EXTINF:-1,ES: Galicia TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2192
+#EXTINF:-1,ES: GCM TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285760
+#EXTINF:-1,ES: Girona TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/174484
+#EXTINF:-1,ES: Goiena Eus
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285761
+#EXTINF:-1,ES: Gol
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1156
+#EXTINF:-1,ES: HBO
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285191
+#EXTINF:-1,ES: HBO Signature
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/91989
+#EXTINF:-1,ES: HBO Xtreme
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285192
+#EXTINF:-1,ES: History
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1155
+#EXTINF:-1,ES: Hit TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/281789
+#EXTINF:-1,ES: Hola TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3061
+#EXTINF:-1,ES: Iberalia TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2793
+#EXTINF:-1,ES: Ibiza Global TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285763
+#EXTINF:-1,ES: Imas TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/269931
+#EXTINF:-1,ES: Inter Almeria
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/81640
+#EXTINF:-1,ES: Investigation Discovery
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/27790
+#EXTINF:-1,ES: Islatel
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285766
+#EXTINF:-1,ES: KTO
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285847
+#EXTINF:-1,ES: LA 7
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285768
+#EXTINF:-1,ES: La 8
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285770
+#EXTINF:-1,ES: La Otra
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/145616
+#EXTINF:-1,ES: La Sexta
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1152
+#EXTINF:-1,ES: La URBAN TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285780
+#EXTINF:-1,ES: LaLiga TV Bar
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/197711
+#EXTINF:-1,ES: Lancelot TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/12159
+#EXTINF:-1,ES: Lebrija TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/12157
+#EXTINF:-1,ES: Levante TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/146658
+#EXTINF:-1,ES: Logos TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/281790
+#EXTINF:-1,ES: Maestrat TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285784
+#EXTINF:-1,ES: Mar TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/166347
+#EXTINF:-1,ES: Marbella TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/174751
+#EXTINF:-1,ES: MavTV Europe
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285845
+#EXTINF:-1,ES: Mega
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2190
+#EXTINF:-1,ES: Melilla TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/270089
+#EXTINF:-1,ES: Mirame TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285786
+#EXTINF:-1,ES: Molahits TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/281793
+#EXTINF:-1,ES: MOVISTAR Accion
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/1148.ts
+#EXTINF:-1,ES: MOVISTAR Cine Espanol
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/64788.ts
+#EXTINF:-1,ES: MOVISTAR Clasicos
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/281773
+#EXTINF:-1,ES: MOVISTAR Comedia
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1146
+#EXTINF:-1,ES: MOVISTAR Deportes
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/227121
+#EXTINF:-1,ES: MOVISTAR Deportes 5
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285690
+#EXTINF:-1,ES: MOVISTAR Deportes 6
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/198066
+#EXTINF:-1,ES: MOVISTAR Drama
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1144
+#EXTINF:-1,ES: MOVISTAR Estrenos
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/1143.ts
+#EXTINF:-1,ES: MOVISTAR Estrenos 2
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/295135.ts
+#EXTINF:-1,ES: MOVISTAR Fest
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/168992
+#EXTINF:-1,ES: MOVISTAR Golf
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/1142.ts
+#EXTINF:-1,ES: MOVISTAR La Resistencia
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286800
+#EXTINF:-1,ES: MOVISTAR LaLiga
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1141
+#EXTINF:-1,ES: MOVISTAR LaLiga 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/5311
+#EXTINF:-1,ES: MOVISTAR LaLiga 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/281772
+#EXTINF:-1,ES: MOVISTAR LaLiga 4
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/269466
+#EXTINF:-1,ES: MOVISTAR LaLiga 5
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/281792
+#EXTINF:-1,ES: MOVISTAR LaLiga 7
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/194527
+#EXTINF:-1,ES: MOVISTAR LaLiga 8
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/269463
+#EXTINF:-1,ES: MOVISTAR LIGA DE CAMPEONES
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2800
+#EXTINF:-1,ES: MOVISTAR Series
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/1140.ts
+#EXTINF:-1,ES: MOVISTAR Series 2
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/1139.ts
+#EXTINF:-1,ES: MTV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/29307
+#EXTINF:-1,ES: MTV Espana
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/5308
+#EXTINF:-1,ES: Multideporte
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8110
+#EXTINF:-1,ES: NAT GEO
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1138
+#EXTINF:-1,ES: NAT GEO Wild
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1137
+#EXTINF:-1,ES: Navarra TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/146410
+#EXTINF:-1,ES: NEOX
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2208
+#EXTINF:-1,ES: Nick Junior
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/5296
+#EXTINF:-1,ES: nickelodeon
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2218
+#EXTINF:-1,ES: Nova
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2189
+#EXTINF:-1,ES: NTV Europe
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285846
+#EXTINF:-1,ES: Oizmendi Telebista
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285790
+#EXTINF:-1,ES: Olympic Channel
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/11138
+#EXTINF:-1,ES: Onda Algeciras TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/269932
+#EXTINF:-1,ES: Onda Cadiz
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/66953
+#EXTINF:-1,ES: Pequeradio
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285793
+#EXTINF:-1,ES: Popular TV Cantabria
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285794
+#EXTINF:-1,ES: Popular TV Melilla
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/270090
+#EXTINF:-1,ES: Portal Foxmix
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295008
+#EXTINF:-1,ES: Punt 3 Vall Uixo
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/269913
+#EXTINF:-1,ES: Rakuten 1
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285802
+#EXTINF:-1,ES: Rakuten 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285803
+#EXTINF:-1,ES: Rakuten 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285804
+#EXTINF:-1,ES: Rakuten 6
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285805
+#EXTINF:-1,ES: Rakuten 7
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285806
+#EXTINF:-1,ES: Rakuten Family
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285801
+#EXTINF:-1,ES: Ready TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/281799
+#EXTINF:-1,ES: Real Madrid TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1136
+#EXTINF:-1,ES: RT en Español
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/166663
+#EXTINF:-1,ES: RTV Vida
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285797
+#EXTINF:-1,ES: RTVC
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/11809
+#EXTINF:-1,ES: RTVE Noticias
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/296504
+#EXTINF:-1,ES: Sevilla FC TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/169002
+#EXTINF:-1,ES: Sky Sport MotoGP
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/281492
+#EXTINF:-1,ES: Sofy TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285809
+#EXTINF:-1,ES: Sol Musica
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/168991
+#EXTINF:-1,ES: Solidaria TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285810
+#EXTINF:-1,ES: Somos
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/16274
+#EXTINF:-1,ES: Sophia TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285811
+#EXTINF:-1,ES: Star TVE
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285188
+#EXTINF:-1,ES: Sundance TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2757
+#EXTINF:-1,ES: SYFY
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1135
+#EXTINF:-1,ES: TCM
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1134
+#EXTINF:-1,ES: Tele Safor
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/50133
+#EXTINF:-1,ES: Telecinco
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1133
+#EXTINF:-1,ES: Teledeporte
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2774
+#EXTINF:-1,ES: Teleonuba
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/145619
+#EXTINF:-1,ES: TeleRibera
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285823
+#EXTINF:-1,ES: TeleVigo
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285825
+#EXTINF:-1,ES: Ten
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/5306
+#EXTINF:-1,ES: Teve Cat
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285835
+#EXTINF:-1,ES: TNT
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2187
+#EXTINF:-1,ES: Toros TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1132
+#EXTINF:-1,ES: Trece TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/60943
+#EXTINF:-1,ES: TV 4 La Vall
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/270092
+#EXTINF:-1,ES: TV Castilla La Mancha
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/169000
+#EXTINF:-1,ES: TV Vega Baja
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/269915
+#EXTINF:-1,ES: TV3 Catalunya
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9367
+#EXTINF:-1,ES: TV5 Limares
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285819
+#EXTINF:-1,ES: TVE Internacional América 1
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/49480
+#EXTINF:-1,ES: TVE Internacional Europa
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/5943
+#EXTINF:-1,ES: TVE La 1 Madrid
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1151
+#EXTINF:-1,ES: TVE La 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1150
+#EXTINF:-1,ES: TVE Star
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/31779
+#EXTINF:-1,ES: TVG 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/281802
+#EXTINF:-1,ES: TVG Cultural
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/71536
+#EXTINF:-1,ES: TVG Infantil
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/281806
+#EXTINF:-1,ES: TVG Musigal
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/281808
+#EXTINF:-1,ES: Ubeat
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/147368
+#EXTINF:-1,ES: Viajar
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2776
+#EXTINF:-1,ES: XTRM
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/11148
+#EXTINF:-1,LA: 3ABN Latino
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286060
+#EXTINF:-1,LA: A Estrenar
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295645
 #EXTINF:-1,LA: A&E
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43813.ts
-#EXTINF:-1,LA: AMC HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43814.ts
-#EXTINF:-1,LA: AMERICA HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43815.ts
-#EXTINF:-1,LA: AMERICA TELEVISION
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43816.ts
-#EXTINF:-1,LA: ANIMAL PLANET HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43817.ts
-#EXTINF:-1,LA: ANTENA3
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43818.ts
-#EXTINF:-1,LA: ATV
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43819.ts
-#EXTINF:-1,LA: AXN HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43820.ts
-#EXTINF:-1,LA: Baby TV HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43821.ts
-#EXTINF:-1,LA: BABY TV SD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43822.ts
-#EXTINF:-1,LA: BANDAMAX
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43823.ts
-#EXTINF:-1,LA: BBC WORLD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43824.ts
-#EXTINF:-1,LA: BEIN SPORTS N
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43825.ts
-#EXTINF:-1,LA: BLOOMBERG
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43826.ts
-#EXTINF:-1,LA: BOOMERANG
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43827.ts
-#EXTINF:-1,LA: Boomerang
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43828.ts
-#EXTINF:-1,LA: Canal 11 HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43829.ts
-#EXTINF:-1,LA: Canal 12
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43830.ts
-#EXTINF:-1,LA: Canal 19
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43831.ts
-#EXTINF:-1,LA: Canal 26
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43832.ts
-#EXTINF:-1,LA: Canal 5 HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43833.ts
-#EXTINF:-1,LA: Canal 6
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43834.ts
-#EXTINF:-1,LA: CANAL N HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43835.ts
-#EXTINF:-1,LA: Canal Once
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43836.ts
-#EXTINF:-1,LA: CINEMA ACCION HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43837.ts
-#EXTINF:-1,LA: CINEMAX HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43838.ts
-#EXTINF:-1,LA: CNN ESPANOL
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43839.ts
-#EXTINF:-1,LA: DIRECTTV SPORT 2
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43840.ts
-#EXTINF:-1,LA: Discovery Channel
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43841.ts
-#EXTINF:-1,LA: DISCOVERY CIVILIZATION SD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43842.ts
-#EXTINF:-1,LA: DISCOVERY FAMILIA HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43843.ts
-#EXTINF:-1,LA: Discovery Home and Health
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43844.ts
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/5759.ts
+#EXTINF:-1,LA: Albuquerque Santa Fe New Mexico KRQE
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/150704
+#EXTINF:-1,LA: Aliento Vision
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295646
+#EXTINF:-1,LA: AMC
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/2996.ts
+#EXTINF:-1,LA: ANIMAL PLANET
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/2997.ts
+#EXTINF:-1,LA: AXN
+http://quality-restream.com:8080/live7iptvlogin2021/TxuRYF2022D5Wt/2998.ts
+#EXTINF:-1,LA: Baby TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3001
+#EXTINF:-1,LA: Bloomberg TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/71867
+#EXTINF:-1,LA: Cartoon Network
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/3007.ts
+#EXTINF:-1,LA: Cinema Dinamita
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3010
+#EXTINF:-1,LA: Cinemax
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/5770.ts
+#EXTINF:-1,LA: Cinemax Action
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/47898.ts
+#EXTINF:-1,LA: Comedy Central
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/3015.ts
+#EXTINF:-1,LA: Concert Channel
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8701
+#EXTINF:-1,LA: Contacts TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295650
+#EXTINF:-1,LA: Cuaraco TV Direct 13
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285121
+#EXTINF:-1,LA: Dios te ve Kids
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295819
+#EXTINF:-1,LA: Discovery H&H
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/5774
 #EXTINF:-1,LA: Discovery Kids
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43845.ts
-#EXTINF:-1,LA: DISCOVERY SCIENCE
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43846.ts
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3020
+#EXTINF:-1,LA: Discovery Science
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3021
+#EXTINF:-1,LA: Discovery Theater
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3022
 #EXTINF:-1,LA: Discovery Turbo
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43847.ts
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3023
 #EXTINF:-1,LA: Discovery World
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43848.ts
-#EXTINF:-1,LA: EL GOURMET
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43849.ts
-#EXTINF:-1,LA: ESPN DEPORTES
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43850.ts
-#EXTINF:-1,LA: FORO TV
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43851.ts
-#EXTINF:-1,LA: FOX DEPORTES
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43852.ts
-#EXTINF:-1,LA: Fox Life
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43853.ts
-#EXTINF:-1,LA: FOX NEWS
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43854.ts
-#EXTINF:-1,LA: Fox Premium Action
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43855.ts
-#EXTINF:-1,LA: FOX PREMIUM ACTION
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43856.ts
-#EXTINF:-1,LA: Fox Premium Cinema
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43857.ts
-#EXTINF:-1,LA: FOX PREMIUM FAMILY
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43858.ts
-#EXTINF:-1,LA: FOX PREMIUM MOVIES
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43859.ts
-#EXTINF:-1,LA: FOX SERIES
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43860.ts
-#EXTINF:-1,LA: FOX SPORTS 1
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43861.ts
-#EXTINF:-1,LA: FOX SPORTS 1 HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43862.ts
-#EXTINF:-1,LA: FOX SPORTS 2
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43863.ts
-#EXTINF:-1,LA: FOX SPORTS 2 HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43864.ts
-#EXTINF:-1,LA: FOX SPORTS 3
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43865.ts
-#EXTINF:-1,LA: FOX SPORTS 3
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43866.ts
-#EXTINF:-1,LA: Gala TV Canal Nueve
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43867.ts
-#EXTINF:-1,LA: GALAVISION
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43868.ts
-#EXTINF:-1,LA: GOL
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43869.ts
-#EXTINF:-1,LA: GOL TV
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43870.ts
-#EXTINF:-1,LA: Golden
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43871.ts
-#EXTINF:-1,LA: GOLDEN PLUS
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43872.ts
-#EXTINF:-1,LA: Golden Premier
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43873.ts
-#EXTINF:-1,LA: GOLDEN PREMIER HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43874.ts
-#EXTINF:-1,LA: GOLF LATIN AMERICA
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43875.ts
-#EXTINF:-1,LA: GOURMET HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43876.ts
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/8894.ts
+#EXTINF:-1,LA: Disney Channel
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/3025.ts
+#EXTINF:-1,LA: Disney Junior
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3026
+#EXTINF:-1,LA: ESPN
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/5779
+#EXTINF:-1,LA: ESPN 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3031
+#EXTINF:-1,LA: ESPN 3
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/3032.ts
+#EXTINF:-1,LA: ESPN Deportes
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/6446
+#EXTINF:-1,LA: Estrella TV East
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/172607
+#EXTINF:-1,LA: FOX SPORTS
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/40839
+#EXTINF:-1,LA: FX
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/34561.ts
+#EXTINF:-1,LA: Galavision
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/71860
+#EXTINF:-1,LA: Glitz
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/45626
 #EXTINF:-1,LA: HBO
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43877.ts
-#EXTINF:-1,LA: HBO 2 HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43878.ts
-#EXTINF:-1,LA: HBO 2 HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43879.ts
-#EXTINF:-1,LA: HBO FAMILY HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43880.ts
-#EXTINF:-1,LA: HBO HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43881.ts
-#EXTINF:-1,LA: HBO plus
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43882.ts
-#EXTINF:-1,LA: HBO PLUS HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43883.ts
-#EXTINF:-1,LA: HBO Plus HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43884.ts
-#EXTINF:-1,LA: HBO POP
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43885.ts
-#EXTINF:-1,LA: HBO Signature HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43886.ts
-#EXTINF:-1,LA: HBO SIGNATURE HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43887.ts
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/3055.ts
+#EXTINF:-1,LA: HBO 2
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/3056.ts
+#EXTINF:-1,LA: HBO Family
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/3057.ts
+#EXTINF:-1,LA: HBO Mundi
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/226015.ts
+#EXTINF:-1,LA: HBO Signature
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/3059.ts
 #EXTINF:-1,LA: HBO Xtreme
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43888.ts
-#EXTINF:-1,LA: HBO XTREME HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43889.ts
-#EXTINF:-1,LA: HCH TV
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43890.ts
-#EXTINF:-1,LA: History Channel
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43891.ts
-#EXTINF:-1,LA: HISTORY CHANNEL HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43892.ts
-#EXTINF:-1,LA: HOLA TV HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43893.ts
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/148927.ts
+#EXTINF:-1,LA: HBO+
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/3058.ts
+#EXTINF:-1,LA: HGTV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/187008
+#EXTINF:-1,LA: Hispan TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/187027
+#EXTINF:-1,LA: History
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/3060.ts
+#EXTINF:-1,LA: History 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/40831
 #EXTINF:-1,LA: HTV
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43894.ts
-#EXTINF:-1,LA: INVESTIGATION DISCOVERY
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43895.ts
-#EXTINF:-1,LA: ISAT
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43896.ts
-#EXTINF:-1,LA: LIFETIME
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43897.ts
-#EXTINF:-1,LA: MASCHIC HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43898.ts
-#EXTINF:-1,LA: MAX UP HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43899.ts
-#EXTINF:-1,LA: Mega TV HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43900.ts
-#EXTINF:-1,LA: MTV HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43901.ts
-#EXTINF:-1,LA: MTV HITS
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43902.ts
-#EXTINF:-1,LA: MULTIPREMIER HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43903.ts
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3062
+#EXTINF:-1,LA: Investigation Discovery
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3063
+#EXTINF:-1,LA: levelUp
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/294677
+#EXTINF:-1,LA: Lifetime
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/3066.ts
+#EXTINF:-1,LA: Mas Chic
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/3067.ts
+#EXTINF:-1,LA: Mega
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295841
+#EXTINF:-1,LA: Microvision
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/148715
+#EXTINF:-1,LA: Mundo+
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/281048
 #EXTINF:-1,LA: NAT GEO
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43904.ts
-#EXTINF:-1,LA: NAT GEO KIDS HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43905.ts
-#EXTINF:-1,LA: NATGEO MUNDO
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43906.ts
-#EXTINF:-1,LA: NBC UNIVERSO
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43907.ts
-#EXTINF:-1,LA: NEX TV
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43908.ts
-#EXTINF:-1,LA: NICK 2
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43909.ts
-#EXTINF:-1,LA: NICK TOONS SD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43910.ts
-#EXTINF:-1,LA: NICKELODEON
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43911.ts
-#EXTINF:-1,LA: PASIONES
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43912.ts
-#EXTINF:-1,LA: Showtime HD-
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43913.ts
-#EXTINF:-1,LA: SPACE
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43914.ts
-#EXTINF:-1,LA: STARZ COMEDY HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43915.ts
-#EXTINF:-1,LA: Starz Encore HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43916.ts
-#EXTINF:-1,LA: Starz HD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43917.ts
-#EXTINF:-1,LA: TBS SD
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43918.ts
-#EXTINF:-1,LA: TOONCAST
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43919.ts
-#EXTINF:-1,LA: TYC SPORTS
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43920.ts
-#EXTINF:-1,LA: UNIVERSO USA
-http://titanmedia.one:2082/live/UBfvYxNmhq/h8yrWCbDSO/43921.ts
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3073
+#EXTINF:-1,LA: NAT GEO Mundo
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/267311
+#EXTINF:-1,LA: NBC Universo
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/90120
+#EXTINF:-1,LA: Nick Junior
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3075
+#EXTINF:-1,LA: nickelodeon
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/3076.ts
+#EXTINF:-1,LA: Nos Pais
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/287751
+#EXTINF:-1,LA: Paramount Network
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/3077.ts
+#EXTINF:-1,LA: Pasiones
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3078
+#EXTINF:-1,LA: Semillitas
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295815
+#EXTINF:-1,LA: Showtime Beyond
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/47920.ts
+#EXTINF:-1,LA: Space
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/34566.ts
+#EXTINF:-1,LA: Starz Cinema
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/38495.ts
+#EXTINF:-1,LA: Studio Universal
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/3083.ts
+#EXTINF:-1,LA: SYFY
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/5802.ts
+#EXTINF:-1,LA: Tastemade
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295852
+#EXTINF:-1,LA: TBS
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/5803.ts
+#EXTINF:-1,LA: TCM
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/3085.ts
+#EXTINF:-1,LA: TeenNick
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/5796
+#EXTINF:-1,LA: Tele Red
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285183
+#EXTINF:-1,LA: Telemundo 60 San Antonio KVDA TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3120
+#EXTINF:-1,LA: Telemundo Atlantic City New Jersey WWSI TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3119
+#EXTINF:-1,LA: Telemundo Chicago Illinois WSNS TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/290482
+#EXTINF:-1,LA: Telemundo Corona California KVEA TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/172620
+#EXTINF:-1,LA: Telemundo Dallas Texas KXTX TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3113
+#EXTINF:-1,LA: Telemundo Denver Colorado KDEN TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/172614
+#EXTINF:-1,LA: Telemundo Fort Myers Florida WWDT CD
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295847
+#EXTINF:-1,LA: Telemundo Houston Texas KTMD TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3116
+#EXTINF:-1,LA: Telemundo Internacional
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/49318
+#EXTINF:-1,LA: Telemundo Merced California KNSO TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3115
+#EXTINF:-1,LA: Telemundo Merrimack New Hampshire WNEU TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/38506
+#EXTINF:-1,LA: Telemundo Miami Florida WSCV TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3117
+#EXTINF:-1,LA: Telemundo Newark New Jersey WNJU TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3118
+#EXTINF:-1,LA: Telemundo Paradise Nevada KBLR TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/172619
+#EXTINF:-1,LA: Telemundo Phoenix Arizona KTAZ TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3123
+#EXTINF:-1,LA: Telemundo San Jose California KSTS TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/172630
+#EXTINF:-1,LA: Telemundo Tucson Arizona KHRR TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3122
+#EXTINF:-1,LA: TLC
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3107
+#EXTINF:-1,LA: TNT
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/3089.ts
+#EXTINF:-1,LA: TNT Series
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285147
+#EXTINF:-1,LA: TNT Sports
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285164
+#EXTINF:-1,LA: Tooncast
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3091
+#EXTINF:-1,LA: tru TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/284515
+#EXTINF:-1,LA: TV 1000
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295306
+#EXTINF:-1,LA: Ultra Kids
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295817
+#EXTINF:-1,LA: Unimas
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/147654
+#EXTINF:-1,LA: Unimas Houston
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/172679
+#EXTINF:-1,LA: Unimas NY
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/172682
+#EXTINF:-1,LA: Unimas West
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/172670
+#EXTINF:-1,LA: Universal Cinema
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/291225.ts
+#EXTINF:-1,LA: Universal TV
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/3036.ts
+#EXTINF:-1,LA: Univision
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/172641
+#EXTINF:-1,LA: Univision Atlanta
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/172645
+#EXTINF:-1,LA: Univision Cleveland Ohio WQHS DT
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/172647
+#EXTINF:-1,LA: Univision Fort Lauderdale
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/172655
+#EXTINF:-1,LA: Univision Joliet Indiana WGBO TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/172654
+#EXTINF:-1,LA: Univision Los Angeles
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/172659
+#EXTINF:-1,LA: Univision Miami
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295843
+#EXTINF:-1,LA: Univision Phoenix
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295844
+#EXTINF:-1,LA: Univision Raleigh
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/172652
+#EXTINF:-1,LA: Univision Tucson Arizona KUVE TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295345
+#EXTINF:-1,LA: Univision TV Novelas
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295846
+#EXTINF:-1,LA: Univision Vineland New Jersey WUVP TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/172660
+#EXTINF:-1,LA: Univision West
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/172661
+#EXTINF:-1,LA: Vallevision
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/148714
+#EXTINF:-1,LA: Warner TV
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/60006.ts
+#EXTINF:-1,MX: ADN 40
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/5799
+#EXTINF:-1,MX: Adrenalina Sports Network
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/290478
+#EXTINF:-1,MX: AMC
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/9083.ts
+#EXTINF:-1,MX: Antena 3 Internacional
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/280394.ts
+#EXTINF:-1,MX: AXN
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9138
+#EXTINF:-1,MX: AyM Sports
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9074
+#EXTINF:-1,MX: Az Cinema
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9108
+#EXTINF:-1,MX: Az Clic
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9035
+#EXTINF:-1,MX: Az Corazon
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2999
+#EXTINF:-1,MX: Az Mundo
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3000
+#EXTINF:-1,MX: AZTECA 7
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9026
+#EXTINF:-1,MX: AZTECA Uno
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9025
+#EXTINF:-1,MX: Baby TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295150
+#EXTINF:-1,MX: Bandamax
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9122
+#EXTINF:-1,MX: BitMe
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/47946.ts
+#EXTINF:-1,MX: Bloomberg TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9091
+#EXTINF:-1,MX: Canal 4
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/7044
+#EXTINF:-1,MX: Canal 5
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9024
+#EXTINF:-1,MX: Canal 6 Monterrey
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/267340
+#EXTINF:-1,MX: Canal 6 Saltillo
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/7045
+#EXTINF:-1,MX: Canal 8 Costa Rica
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/31756
+#EXTINF:-1,MX: Canal 10 Cancun
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/147894
+#EXTINF:-1,MX: Canal 26
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/7043
+#EXTINF:-1,MX: Canal Internacional
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/296519
+#EXTINF:-1,MX: Canal Mundo+
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/287631
+#EXTINF:-1,MX: Capital 21
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/287632
+#EXTINF:-1,MX: Cartoon Network
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9043
+#EXTINF:-1,MX: Cinecanal
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/9128.ts
+#EXTINF:-1,MX: Claro Cinema
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8706
+#EXTINF:-1,MX: Claro Sports
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3012
+#EXTINF:-1,MX: Comedy Central
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9106
+#EXTINF:-1,MX: Corazon del la Capital
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/296635
+#EXTINF:-1,MX: De Pelicula
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/31740.ts
+#EXTINF:-1,MX: Discovery H&H
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9110
+#EXTINF:-1,MX: Discovery Kids
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9060
+#EXTINF:-1,MX: Discovery Science
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9059
+#EXTINF:-1,MX: Discovery Theater
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/9151.ts
+#EXTINF:-1,MX: Discovery TLC
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9062
+#EXTINF:-1,MX: Discovery Turbo
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9058
+#EXTINF:-1,MX: Discovery World
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9061
+#EXTINF:-1,MX: Disney Junior
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9042
+#EXTINF:-1,MX: Distrito Comedia
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9126
+#EXTINF:-1,MX: E!
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/31760.ts
+#EXTINF:-1,MX: ESPN
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9070
+#EXTINF:-1,MX: ESPN 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/38603
+#EXTINF:-1,MX: ESPN Dos
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9068
+#EXTINF:-1,MX: ESPN Extra
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/38607
+#EXTINF:-1,MX: Europa Europa
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/9130.ts
+#EXTINF:-1,MX: Excelsior TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/31763
+#EXTINF:-1,MX: Film & Arts
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9089
+#EXTINF:-1,MX: Foro TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/5782
+#EXTINF:-1,MX: FOX SPORTS
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/10925
+#EXTINF:-1,MX: FOX SPORTS 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3043
+#EXTINF:-1,MX: FOX SPORTS 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3044
+#EXTINF:-1,MX: FX
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/9105.ts
+#EXTINF:-1,MX: Glitz
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9125
+#EXTINF:-1,MX: Golden Edge
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/9076.ts
+#EXTINF:-1,MX: Golden Plus
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/3051.ts
+#EXTINF:-1,MX: Golden Premier
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/3052.ts
+#EXTINF:-1,MX: Golf Channel
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/49383
+#EXTINF:-1,MX: HGTV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/187048
+#EXTINF:-1,MX: Hola TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9031
+#EXTINF:-1,MX: I Sat
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9121
+#EXTINF:-1,MX: ILCE Canal 15 Summa Saberes
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/296518
+#EXTINF:-1,MX: Imagen TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9039
+#EXTINF:-1,MX: Ingenio TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9147
+#EXTINF:-1,MX: Investigation Discovery
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9056
+#EXTINF:-1,MX: Jalisco TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/287636
+#EXTINF:-1,MX: Justicia TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/7050
+#EXTINF:-1,MX: Las Estrellas México
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3005
+#EXTINF:-1,MX: Maria+Vision
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/163056
+#EXTINF:-1,MX: Maria+Vision Medjugorje
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/296514
+#EXTINF:-1,MX: Mexico Travel Channel
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/163049
+#EXTINF:-1,MX: Milenio TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/7067
+#EXTINF:-1,MX: Multimedios Laguna
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/287639
+#EXTINF:-1,MX: NAT GEO
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8725
+#EXTINF:-1,MX: nickelodeon
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9085
+#EXTINF:-1,MX: NickMusic
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9084
+#EXTINF:-1,MX: Nmas
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/296521
+#EXTINF:-1,MX: Nueve
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/167165
+#EXTINF:-1,MX: Once Mexico
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/7051
+#EXTINF:-1,MX: Paramount Network
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/9146.ts
+#EXTINF:-1,MX: RCG TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/163053
+#EXTINF:-1,MX: RTQ Queretaro
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/147900
+#EXTINF:-1,MX: SET Television Canal 26
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/287645
+#EXTINF:-1,MX: Sistema Michoacano de TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/296509
+#EXTINF:-1,MX: Sony Channel
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/9115.ts
+#EXTINF:-1,MX: Space
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/9136.ts
+#EXTINF:-1,MX: SYFY
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9081
+#EXTINF:-1,MX: TBS
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9124
+#EXTINF:-1,MX: TCM
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9131
+#EXTINF:-1,MX: TeenNick
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9040
+#EXTINF:-1,MX: TeleFormula
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/31746
+#EXTINF:-1,MX: Telehit Musica
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/31785
+#EXTINF:-1,MX: Telemax
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/7080
+#EXTINF:-1,MX: Teleritmo
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9066
+#EXTINF:-1,MX: Televisa Networks
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/31791
+#EXTINF:-1,MX: Tlaxcala TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/296507
+#EXTINF:-1,MX: Tlnovelas
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9141
+#EXTINF:-1,MX: TNT Series
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9139
+#EXTINF:-1,MX: Tooncast
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9067
+#EXTINF:-1,MX: TUDN
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/31784
+#EXTINF:-1,MX: TV Mas
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9097
+#EXTINF:-1,MX: TV Mexiquense
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9104
+#EXTINF:-1,MX: TV Nuevo Leon 28
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/296506
+#EXTINF:-1,MX: TVC Deportes
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9075
+#EXTINF:-1,MX: Unicable
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/5804
+#EXTINF:-1,MX: Warner TV
+http://quality-restream.com:8080/live/iptvlogin2021/TxuRYF2022D5Wt/9142.ts
+#EXTINF:-1,BR: 1001 Noites
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286064
+#EXTINF:-1,BR: 24 Kitchen
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/16409
+#EXTINF:-1,BR: A vida moderna de Rocko
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286065
+#EXTINF:-1,BR: A&E
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8816
+#EXTINF:-1,BR: AgroBrasil TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/7320
+#EXTINF:-1,BR: All Sports
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/7321
+#EXTINF:-1,BR: AMC
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8845
+#EXTINF:-1,BR: ANIMAL PLANET
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8890
+#EXTINF:-1,BR: Anime TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286067
+#EXTINF:-1,BR: ARTE 1
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8833
+#EXTINF:-1,BR: As Aventuras de Jackie Chan
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286068
+#EXTINF:-1,BR: As Pistas de Blue
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286069
+#EXTINF:-1,BR: AXN
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8852
+#EXTINF:-1,BR: Band Campinas
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/280153
+#EXTINF:-1,BR: Band News
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/14486
+#EXTINF:-1,BR: Band Sports
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8777
+#EXTINF:-1,BR: BET Being Mary Jane
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286070
+#EXTINF:-1,BR: BIS
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/24621
+#EXTINF:-1,BR: Camara Dos Deputados
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285517
+#EXTINF:-1,BR: Canal Brasil
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/14569
+#EXTINF:-1,BR: Canal Off
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/14532
+#EXTINF:-1,BR: Canal Saude
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286075
+#EXTINF:-1,BR: Canal Viva
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/14553
+#EXTINF:-1,BR: Cancao Nova
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/7387
+#EXTINF:-1,BR: Cartoon Network
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8913
+#EXTINF:-1,BR: Catve 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286078
+#EXTINF:-1,BR: Catve FM
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286076
+#EXTINF:-1,BR: Catve Master TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286077
+#EXTINF:-1,BR: CBN Rio De Janeiro
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/283843
+#EXTINF:-1,BR: CBN Sao Paulo
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/283844
+#EXTINF:-1,BR: Central TV Brazil
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286793
+#EXTINF:-1,BR: Cinemax
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8834
+#EXTINF:-1,BR: CNN Brasil
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/148404
+#EXTINF:-1,BR: COM Brasil
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286072
+#EXTINF:-1,BR: Combate
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8778
+#EXTINF:-1,BR: Comedy Central
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8779
+#EXTINF:-1,BR: Comedy Central South Park
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286080
+#EXTINF:-1,BR: Conmebol 1
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/291179
+#EXTINF:-1,BR: Conmebol 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/291180
+#EXTINF:-1,BR: Conmebol 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/291181
+#EXTINF:-1,BR: Conmebol 4
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/291182
+#EXTINF:-1,BR: Cultura
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/14491
+#EXTINF:-1,BR: Curta
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/166654
+#EXTINF:-1,BR: Discovery H&H Brasil
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8904
+#EXTINF:-1,BR: Discovery Kids
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8893
+#EXTINF:-1,BR: Discovery Science
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8910
+#EXTINF:-1,BR: Discovery Theater
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8892
+#EXTINF:-1,BR: Discovery Turbo
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8891
+#EXTINF:-1,BR: Discovery World
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/279608
+#EXTINF:-1,BR: Disney Channel
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8895
+#EXTINF:-1,BR: Disney Junior
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8916
+#EXTINF:-1,BR: E!
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/14501
+#EXTINF:-1,BR: EPTV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/281736
+#EXTINF:-1,BR: ESPN
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8793
+#EXTINF:-1,BR: ESPN 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8801
+#EXTINF:-1,BR: ESPN 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/290657
+#EXTINF:-1,BR: ESPN Extra
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8789
+#EXTINF:-1,BR: FailArmy
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286084
+#EXTINF:-1,BR: FilmBox Extra
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/16377
+#EXTINF:-1,BR: Fish TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8848
+#EXTINF:-1,BR: Fonte TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/275967
+#EXTINF:-1,BR: Food Network
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8863
+#EXTINF:-1,BR: Fox Crime
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/16366
+#EXTINF:-1,BR: Fox Life
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8818
+#EXTINF:-1,BR: FOX SPORTS 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8776
+#EXTINF:-1,BR: Futura
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/7342
+#EXTINF:-1,BR: FX
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8835
+#EXTINF:-1,BR: Globo Bahia
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295106
+#EXTINF:-1,BR: Globo Brasilia
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295107
+#EXTINF:-1,BR: Globo EPTV Ribeirao Preto
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295110
+#EXTINF:-1,BR: Globo Fortaleza
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/36851
+#EXTINF:-1,BR: Globo Internacional
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295109
+#EXTINF:-1,BR: Globo News
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/14513
+#EXTINF:-1,BR: Globo Nordeste
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/24551
+#EXTINF:-1,BR: Globo Premium
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/151874
+#EXTINF:-1,BR: Globo RBS Porto Alegre
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/148423
+#EXTINF:-1,BR: Globo RPC Curitiba
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/182185
+#EXTINF:-1,BR: Globo TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295104
+#EXTINF:-1,BR: Gloob
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/14605
+#EXTINF:-1,BR: Gloobinho
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/148406
+#EXTINF:-1,BR: GNT
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8856
+#EXTINF:-1,BR: Golden
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295105
+#EXTINF:-1,BR: Gospel Movie TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286085
+#EXTINF:-1,BR: Guia de Canais
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286086
+#EXTINF:-1,BR: HBO
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8822
+#EXTINF:-1,BR: HBO 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8821
+#EXTINF:-1,BR: HBO Family
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8839
+#EXTINF:-1,BR: HBO Mundi
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8837
+#EXTINF:-1,BR: HBO Pop
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/173434
+#EXTINF:-1,BR: HBO Signature
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8836
+#EXTINF:-1,BR: HBO Xtreme
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8824
+#EXTINF:-1,BR: HBO+
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8823
+#EXTINF:-1,BR: HGTV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/147274
+#EXTINF:-1,BR: History
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8901
+#EXTINF:-1,BR: History 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/14516
+#EXTINF:-1,BR: Inter TV Grande Minas
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/291203
+#EXTINF:-1,BR: Investigation Discovery
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/14529
+#EXTINF:-1,BR: Jeannie e um Genio
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286090
+#EXTINF:-1,BR: Jovem Pan News
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286091
+#EXTINF:-1,BR: Jovem Pan Pluto TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286092
+#EXTINF:-1,BR: Lifetime
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8864
+#EXTINF:-1,BR: Like
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/245612
+#EXTINF:-1,BR: MasterChef
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286098
+#EXTINF:-1,BR: Megapix
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8842
+#EXTINF:-1,BR: MTV Brasil
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/147283
+#EXTINF:-1,BR: Multishow
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/14528
+#EXTINF:-1,BR: Music Box Brazil
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/278696
+#EXTINF:-1,BR: MyTime movie network Brazil
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286099
+#EXTINF:-1,BR: Naruto
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286100
+#EXTINF:-1,BR: NAT GEO
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/14531
+#EXTINF:-1,BR: NAT GEO Kids
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8914
+#EXTINF:-1,BR: NAT GEO Wild
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8905
+#EXTINF:-1,BR: Nick Classico
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286101
+#EXTINF:-1,BR: Nick Junior
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8919
+#EXTINF:-1,BR: Nick Junior Club
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286102
+#EXTINF:-1,BR: nickelodeon
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/16391
+#EXTINF:-1,BR: Nova Era TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286105
+#EXTINF:-1,BR: Novo Tempo
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/7411
+#EXTINF:-1,BR: O Encantador de Caes
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/294909
+#EXTINF:-1,BR: O Reino Infantil
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286107
+#EXTINF:-1,BR: Paramount Network
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8859
+#EXTINF:-1,BR: Premiere FC 1
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8785
+#EXTINF:-1,BR: Premiere FC 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8786
+#EXTINF:-1,BR: Premiere FC 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8787
+#EXTINF:-1,BR: Premiere FC 4
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8788
+#EXTINF:-1,BR: Premiere FC 5
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8790
+#EXTINF:-1,BR: Premiere FC 6
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8791
+#EXTINF:-1,BR: Premiere FC 7
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8798
+#EXTINF:-1,BR: PUC TV Goias
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286109
+#EXTINF:-1,BR: RBA TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/166057
+#EXTINF:-1,BR: Record News
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/10988
+#EXTINF:-1,BR: Record SP
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/14639
+#EXTINF:-1,BR: Record TV Europa
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1431
+#EXTINF:-1,BR: Rede Brasil
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/7354
+#EXTINF:-1,BR: Rede Brasil de Comunicacao
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286111
+#EXTINF:-1,BR: Rede CNT
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286112
+#EXTINF:-1,BR: Rede Familia
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/193339
+#EXTINF:-1,BR: Rede Gospel
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/193342
+#EXTINF:-1,BR: Rede Mao Amiga
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286116
+#EXTINF:-1,BR: Rede Minas
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/7408
+#EXTINF:-1,BR: Rede RC
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286117
+#EXTINF:-1,BR: Rede Super
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/147291
+#EXTINF:-1,BR: Rede TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/7359
+#EXTINF:-1,BR: Rede TV Pampa
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286119
+#EXTINF:-1,BR: Rede TV Tocantins
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286121
+#EXTINF:-1,BR: Rede Vida
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/147286
+#EXTINF:-1,BR: Retro Cartoon
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286122
+#EXTINF:-1,BR: Santa Cecilia TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286124
+#EXTINF:-1,BR: SBT
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/7367
+#EXTINF:-1,BR: SBT SP
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/148409
+#EXTINF:-1,BR: Sony Channel
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8882
+#EXTINF:-1,BR: Space
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295111
+#EXTINF:-1,BR: SPORTV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/4015
+#EXTINF:-1,BR: SPORTV 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8783
+#EXTINF:-1,BR: SPORTV 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8784
+#EXTINF:-1,BR: Star Channel
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/278658
+#EXTINF:-1,BR: Star Hits 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/278661
+#EXTINF:-1,BR: Studio Universal
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/280996
+#EXTINF:-1,BR: SYFY
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/14485
+#EXTINF:-1,BR: Tastemade
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286173
+#EXTINF:-1,BR: TBS
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/14649
+#EXTINF:-1,BR: TCM
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8853
+#EXTINF:-1,BR: TeenNick
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286103
+#EXTINF:-1,BR: Telecine Action
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/193685
+#EXTINF:-1,BR: Telecine Cult
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/197080
+#EXTINF:-1,BR: Telecine Fun
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8831
+#EXTINF:-1,BR: Telecine Pipoca
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8830
+#EXTINF:-1,BR: Telecine Premium
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8829
+#EXTINF:-1,BR: Telecine Touch
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8828
+#EXTINF:-1,BR: Terra Viva
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/197213
+#EXTINF:-1,BR: The Pet Collective
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286176
+#EXTINF:-1,BR: TLC
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/7370
+#EXTINF:-1,BR: TNT
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8840
+#EXTINF:-1,BR: TNT Series
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8827
+#EXTINF:-1,BR: TNT Sports 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286128
+#EXTINF:-1,BR: TNT Sports 4
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286129
+#EXTINF:-1,BR: TNT Sports 5
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286130
+#EXTINF:-1,BR: Tokusato
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286177
+#EXTINF:-1,BR: Tooncast
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8927
+#EXTINF:-1,BR: Travel Box Brasil
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/169585
+#EXTINF:-1,BR: tru TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/147652
+#EXTINF:-1,BR: Turma da Monica
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286178
+#EXTINF:-1,BR: TV Aberta
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286131
+#EXTINF:-1,BR: TV Aparecida
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/7379
+#EXTINF:-1,BR: TV Assembl
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/166063
+#EXTINF:-1,BR: TV Birigui
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/296054
+#EXTINF:-1,BR: TV BNO
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/201934
+#EXTINF:-1,BR: TV Brasil
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/166056
+#EXTINF:-1,BR: TV Brasil 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/24284
+#EXTINF:-1,BR: TV BRICS Portuguese
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286134
+#EXTINF:-1,BR: TV Carioca
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/201935
+#EXTINF:-1,BR: TV Cidade Canal 9
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/201936
+#EXTINF:-1,BR: TV Cinec
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286142
+#EXTINF:-1,BR: TV das Artes
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285516
+#EXTINF:-1,BR: TV Destak
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286144
+#EXTINF:-1,BR: TV Diario do Sertao
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/22361
+#EXTINF:-1,BR: TV Escola
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/7372
+#EXTINF:-1,BR: TV Evangelizar
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/245605
+#EXTINF:-1,BR: TV Galega Blumenau
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286147
+#EXTINF:-1,BR: TV Gazeta
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/7391
+#EXTINF:-1,BR: TV Gideoes
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286149
+#EXTINF:-1,BR: TV Guara
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286150
+#EXTINF:-1,BR: TV Imaculada
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/291199
+#EXTINF:-1,BR: TV Justica
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285520
+#EXTINF:-1,BR: TV Mackenzie
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286153
+#EXTINF:-1,BR: TV MAX
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286152
+#EXTINF:-1,BR: TV Metropole
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286154
+#EXTINF:-1,BR: TV Mon
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286155
+#EXTINF:-1,BR: TV Pai Eterno
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/166054
+#EXTINF:-1,BR: TV Pantanal MS
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286157
+#EXTINF:-1,BR: TV Parana Turismo
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/294563
+#EXTINF:-1,BR: TV Pocos
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286158
+#EXTINF:-1,BR: TV Ra Tim Bum
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/148405
+#EXTINF:-1,BR: TV Santa Cruz
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286159
+#EXTINF:-1,BR: TV Senado
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285521
+#EXTINF:-1,BR: TV Terceiro Anjo
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286160
+#EXTINF:-1,BR: TV UAI
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/291201
+#EXTINF:-1,BR: TV Uniao
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286166
+#EXTINF:-1,BR: TV UniSantos
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286165
+#EXTINF:-1,BR: TV Verdes Campos
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286167
+#EXTINF:-1,BR: TVCI
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286168
+#EXTINF:-1,BR: TVE Bahia
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/22364
+#EXTINF:-1,BR: TVideo News
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/283846
+#EXTINF:-1,BR: TVN Brasil
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/265770
+#EXTINF:-1,BR: Universal TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/7422
+#EXTINF:-1,BR: Warner TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8825
+#EXTINF:-1,BR: WooHoo
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/14555
+#EXTINF:-1,BR: Yeeaah!
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286180
+#EXTINF:-1,BR: ZooMoo Kids
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/14661
+#EXTINF:-1,ARG: 24/7 Canal de Noticias
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285870
+#EXTINF:-1,ARG: 5RTV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285871
+#EXTINF:-1,ARG: 5TV Corrientes
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285872
+#EXTINF:-1,ARG: A&E
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/38648
+#EXTINF:-1,ARG: A24
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3197
+#EXTINF:-1,ARG: AMC
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/38654
+#EXTINF:-1,ARG: America TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/49245
+#EXTINF:-1,ARG: Argentinisima
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/38659
+#EXTINF:-1,ARG: Atreseries
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285201
+#EXTINF:-1,ARG: AXN
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/38651
+#EXTINF:-1,ARG: Baby TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/38649
+#EXTINF:-1,ARG: Bloomberg
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285198
+#EXTINF:-1,ARG: Boomerang
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/38657
+#EXTINF:-1,ARG: C5N
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3191
+#EXTINF:-1,ARG: Canal 2 Jujuy
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285881
+#EXTINF:-1,ARG: Canal 3 Pinamar
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/166795
+#EXTINF:-1,ARG: Canal 4 Jujuy
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285883
+#EXTINF:-1,ARG: Canal 6 Noticias
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/284235
+#EXTINF:-1,ARG: Canal 9 Televida
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285886
+#EXTINF:-1,ARG: Canal 10 Córdoba
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/54280
+#EXTINF:-1,ARG: Canal 10 Mar del Plata
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285876
+#EXTINF:-1,ARG: Canal 10 Rio Negro
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285877
+#EXTINF:-1,ARG: Canal 11 La Rioja
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285878
+#EXTINF:-1,ARG: Canal 12 Puerto Madryn
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285879
+#EXTINF:-1,ARG: Canal 13 La Rioja
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285880
+#EXTINF:-1,ARG: Canal 26
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3190
+#EXTINF:-1,ARG: Canal de la Ciudad
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/62760
+#EXTINF:-1,ARG: canal orbe 21
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9374
+#EXTINF:-1,ARG: Canal Provincial
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285888
+#EXTINF:-1,ARG: Canal TDC
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285874
+#EXTINF:-1,ARG: Cartoon Network
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/49257
+#EXTINF:-1,ARG: Chaco TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/166055
+#EXTINF:-1,ARG: Chacra TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285890
+#EXTINF:-1,ARG: Cinco TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/284234
+#EXTINF:-1,ARG: Cine.ar
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/38652
+#EXTINF:-1,ARG: Cinecanal
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/38655
+#EXTINF:-1,ARG: Cinemax
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/38661
+#EXTINF:-1,ARG: Ciudad Magazine
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/38663
+#EXTINF:-1,ARG: Ciudad TV Chaco
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285892
+#EXTINF:-1,ARG: Comedy Central
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/49261
+#EXTINF:-1,ARG: Cronica TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8763
+#EXTINF:-1,ARG: DeporTV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/38664
+#EXTINF:-1,ARG: Diputados TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/49309
+#EXTINF:-1,ARG: DirecTV Sports
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/67721
+#EXTINF:-1,ARG: DirecTV Sports 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/31645
+#EXTINF:-1,ARG: DirecTV Sports+
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/65750
+#EXTINF:-1,ARG: Discovery H&H
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/172593
+#EXTINF:-1,ARG: Discovery Theater
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/172605
+#EXTINF:-1,ARG: Disney Channel
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/49266
+#EXTINF:-1,ARG: Disney Junior
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/38665
+#EXTINF:-1,ARG: Disney XD
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/38667
+#EXTINF:-1,ARG: E!
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/38668
+#EXTINF:-1,ARG: El Gourmet
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8691
+#EXTINF:-1,ARG: El Nueve
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3202
+#EXTINF:-1,ARG: El Trece
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3194
+#EXTINF:-1,ARG: Eltres
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285882
+#EXTINF:-1,ARG: Encuentro
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/30694
+#EXTINF:-1,ARG: ESPN
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/61174
+#EXTINF:-1,ARG: ESPN 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/70752
+#EXTINF:-1,ARG: ESPN 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/61170
+#EXTINF:-1,ARG: ESPN 4
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295627
+#EXTINF:-1,ARG: ESPN Extra
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/66298
+#EXTINF:-1,ARG: Fenix TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285896
+#EXTINF:-1,ARG: Film & Arts
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/38678
+#EXTINF:-1,ARG: FOX SPORTS
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/280370
+#EXTINF:-1,ARG: FOX SPORTS 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3187
+#EXTINF:-1,ARG: FOX SPORTS 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/10921
+#EXTINF:-1,ARG: FX
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/172268
+#EXTINF:-1,ARG: FXM
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/29302
+#EXTINF:-1,ARG: Garage TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/23915
+#EXTINF:-1,ARG: Gen Reprise
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285897
+#EXTINF:-1,ARG: Glitz
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/30712
+#EXTINF:-1,ARG: HBO Mundi
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/38701
+#EXTINF:-1,ARG: HBO Pop
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/29305
+#EXTINF:-1,ARG: HBO Xtreme
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/172272
+#EXTINF:-1,ARG: HBO+
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/38685
+#EXTINF:-1,ARG: History
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/49293
+#EXTINF:-1,ARG: Hola TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285202
+#EXTINF:-1,ARG: I Sat
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/148593
+#EXTINF:-1,ARG: La Voz de Tucuman
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285898
+#EXTINF:-1,ARG: Litus
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/23925
+#EXTINF:-1,ARG: LN+
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8758
+#EXTINF:-1,ARG: Morbido TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/198054
+#EXTINF:-1,ARG: Multivision
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/18341
+#EXTINF:-1,ARG: NAT GEO Kids
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/38697
+#EXTINF:-1,ARG: NAT GEO Wild
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/38698
+#EXTINF:-1,ARG: Net TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/267322
+#EXTINF:-1,ARG: nickelodeon
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/29311
+#EXTINF:-1,ARG: Pakapaka
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/49304
+#EXTINF:-1,ARG: Quiero Musica en mi Idioma
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/30699
+#EXTINF:-1,ARG: Smithsonian Channel
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285203
+#EXTINF:-1,ARG: Star Action
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/280376
+#EXTINF:-1,ARG: Star Comedy
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/280372
+#EXTINF:-1,ARG: Star Hits
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285195
+#EXTINF:-1,ARG: SYFY
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/49316
+#EXTINF:-1,ARG: TCM
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/49314
+#EXTINF:-1,ARG: Telefe
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3199
+#EXTINF:-1,ARG: Telefe Rosario
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285909
+#EXTINF:-1,ARG: TeleJunin
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285908
+#EXTINF:-1,ARG: Telemax
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/146051
+#EXTINF:-1,ARG: Telenord Corrientes
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285910
+#EXTINF:-1,ARG: Telesol (TLS)
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285911
+#EXTINF:-1,ARG: Television Publica
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/296503
+#EXTINF:-1,ARG: Tierramia TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/76509
+#EXTINF:-1,ARG: TNT
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/38720
+#EXTINF:-1,ARG: TNT Series
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3109
+#EXTINF:-1,ARG: TNT Sports
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3204
+#EXTINF:-1,ARG: Todo Noticias
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/146052
+#EXTINF:-1,ARG: TV Mana Argentina
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285905
+#EXTINF:-1,ARG: TV Publica
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8752
+#EXTINF:-1,ARG: TVU Universidad Nacional de La Plata
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/285907
+#EXTINF:-1,ARG: TyC Sports
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8749
+#EXTINF:-1,ARG: Universal TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/38719
+#EXTINF:-1,ARG: Volver
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/49329
+#EXTINF:-1,ARG: Wobi TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9123
+#EXTINF:-1,ARG: ZooMoo Kids
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/49330
+#EXTINF:-1,CO: ATN TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295640
+#EXTINF:-1,CO: Avivamiento TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286296
+#EXTINF:-1,CO: AXN
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/46554
+#EXTINF:-1,CO: Cablenoticias
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/148933
+#EXTINF:-1,CO: Canal 1
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/48311
+#EXTINF:-1,CO: Canal 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286298
+#EXTINF:-1,CO: Canal Capital
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8347
+#EXTINF:-1,CO: Canal CNC Medellin
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/151405
+#EXTINF:-1,CO: Canal Dos (Yopal-Casanare)
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286299
+#EXTINF:-1,CO: Canal Son TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286301
+#EXTINF:-1,CO: Canal TRO
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/47941
+#EXTINF:-1,CO: Canal Visión Dorada
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286302
+#EXTINF:-1,CO: Cantinazo
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/31644
+#EXTINF:-1,CO: Caracol TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3162
+#EXTINF:-1,CO: Cinecanal
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/290335
+#EXTINF:-1,CO: City TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/48310
+#EXTINF:-1,CO: Cosmopolitan TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/290469
+#EXTINF:-1,CO: Discovery World
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/46569
+#EXTINF:-1,CO: El Tiempo
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8353
+#EXTINF:-1,CO: ESPN
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295642
+#EXTINF:-1,CO: ESPN 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/273212
+#EXTINF:-1,CO: ESPN 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295641
+#EXTINF:-1,CO: FOX SPORTS 1
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/65949
+#EXTINF:-1,CO: FOX SPORTS 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/198470
+#EXTINF:-1,CO: FX
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/295243
+#EXTINF:-1,CO: La Red
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/196445
+#EXTINF:-1,CO: Mi Gente TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286306
+#EXTINF:-1,CO: Mundo Mas
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/198472
+#EXTINF:-1,CO: Noticias Caracol
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286308
+#EXTINF:-1,CO: NTN 24
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8355
+#EXTINF:-1,CO: RCN 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/290242
+#EXTINF:-1,CO: RCN INT
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/290241
+#EXTINF:-1,CO: RCN Novelas
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/54283
+#EXTINF:-1,CO: RCN TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3163
+#EXTINF:-1,CO: Senal Colombia
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3167
+#EXTINF:-1,CO: Studio Universal
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/290470
+#EXTINF:-1,CO: Suram TV
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/166060
+#EXTINF:-1,CO: TDI Colombia
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286310
+#EXTINF:-1,CO: Teleamiga
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/197105
+#EXTINF:-1,CO: Teleantioquia
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8358
+#EXTINF:-1,CO: Telecafe
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8359
+#EXTINF:-1,CO: Telecaribe
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/5823
+#EXTINF:-1,CO: Teleislas
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/167312
+#EXTINF:-1,CO: Telemedellin
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8360
+#EXTINF:-1,CO: Telepacifico
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8361
+#EXTINF:-1,CO: Tooncast
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/166963
+#EXTINF:-1,CO: Trece
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/197058
+#EXTINF:-1,CO: TV Gracia
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/166066
+#EXTINF:-1,CO: TVN Global
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286312
+#EXTINF:-1,CO: UNO PLAY
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/286317
+#EXTINF:-1,CO: Win Sports
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8345
+#EXTINF:-1,CO: Win Sports+
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/294455
+
