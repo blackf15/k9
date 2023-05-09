@@ -31,3 +31,87 @@ http://190.90.18.161:15082/play/a03q/index.m3u8
 http://190.90.18.161:15082/play/a02n/index.m3u8
 #EXTINF:-1,TCM
 http://190.90.18.161:15082/play/a032/index.m3u8
+#EXTINF:-1,AMC
+http://190.90.18.161:15087/play/a03t/index.m3u8
+#EXTINF:-1,CARACOL 2
+http://190.90.18.161:15087/play/a04s/index.m3u8
+#EXTINF:-1,CARACOL RESPALDO
+http://190.90.18.161:15087/play/a04z/index.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://190.90.18.161:15087/play/a03j/index.m3u8
+#EXTINF:-1,CARTOONITO
+http://190.90.18.161:15087/play/a03k/index.m3u8
+#EXTINF:-1,CINE FAMILIAR
+http://190.90.18.161:15087/play/a00r/index.m3u8
+#EXTINF:-1,CINECANAL
+http://190.90.18.161:15087/play/a04m/index.m3u8
+#EXTINF:-1,CITYTV
+http://190.90.18.161:15087/play/a04h/index.m3u8
+#EXTINF:-1,Cine hispano
+http://190.90.18.161:15087/play/a00v/index.m3u8
+#EXTINF:-1,Cine infantil
+http://190.90.18.161:15087/play/a00w/index.m3u8
+#EXTINF:-1,Cine premium
+http://190.90.18.161:15087/play/a00u/index.m3u8
+#EXTINF:-1,DISCOVERY H&H
+http://190.90.18.161:15087/play/a046/index.m3u8
+#EXTINF:-1,DISCOVERY ID
+http://190.90.18.161:15087/play/a03u/index.m3u8
+#EXTINF:-1,DISCOVERY WORLD
+http://190.90.18.161:15087/play/a03i/index.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://190.90.18.161:15087/play/a03p/index.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://190.90.18.161:15087/play/a03g/index.m3u8
+#EXTINF:-1,E!
+http://190.90.18.161:15087/play/a04n/index.m3u8
+#EXTINF:-1,ESPN 4
+http://190.90.18.161:15087/play/a04c/index.m3u8
+#EXTINF:-1,EUROPA
+http://190.90.18.161:15087/play/a040/index.m3u8
+#EXTINF:-1,FILM & ARTS
+http://190.90.18.161:15087/play/a041/index.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://190.90.18.161:15087/play/a04q/index.m3u8
+#EXTINF:-1,FOX SPORTS 3
+http://190.90.18.161:15087/play/a04p/index.m3u8
+#EXTINF:-1,GOURMET
+http://190.90.18.161:15087/play/a03r/index.m3u8
+#EXTINF:-1,HTV
+http://190.90.18.161:15087/play/a03l/index.m3u8
+#EXTINF:-1,LA KALLE
+http://190.90.18.161:15087/play/a013/index.m3u8
+#EXTINF:-1,MAS CHIC
+http://190.90.18.161:15087/play/a03s/index.m3u8
+#EXTINF:-1,Musica kpop
+http://190.90.18.161:15087/play/a011/index.m3u8
+#EXTINF:-1,Musica popular
+http://190.90.18.161:15087/play/a010/index.m3u8
+#EXTINF:-1,Musica reggeaton
+http://190.90.18.161:15087/play/a00z/index.m3u8
+#EXTINF:-1,Música hits
+http://190.90.18.161:15087/play/a00y/index.m3u8
+#EXTINF:-1,RCN 2
+http://190.90.18.161:15087/play/a04t/index.m3u8
+#EXTINF:-1,RPOVINCIA TV
+http://190.90.18.161:15087/play/a014/index.m3u8
+#EXTINF:-1,RT_DOC
+http://190.90.18.161:15087/play/a04d/index.m3u8
+#EXTINF:-1,RUMBATV
+http://190.90.18.161:15087/play/a04w/index.m3u8
+#EXTINF:-1,SCIENCE
+http://190.90.18.161:15087/play/a04a/index.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL
+http://190.90.18.161:15087/play/a04e/index.m3u8
+#EXTINF:-1,TCM
+http://190.90.18.161:15087/play/a04f/index.m3u8
+#EXTINF:-1,TEATHER
+http://190.90.18.161:15087/play/a042/index.m3u8
+#EXTINF:-1,TRO 2
+http://190.90.18.161:15087/play/a04u/index.m3u8
+#EXTINF:-1,UMC
+http://190.90.18.161:15087/play/a01h/index.m3u8
+#EXTINF:-1,VPLUS
+http://190.90.18.161:15087/play/a04g/index.m3u8
+#EXTINF:-1,ZOOMOO
+http://190.90.18.161:15087/play/a04y/index.m3u8
