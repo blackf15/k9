@@ -1,7 +1,36 @@
 #EXTM3U
-#EXTINF:-1 group-title="Lista 19", AMERICATEVE P
-https://bgtv.site/play/bud-399.php?token=blablackgshost&c=4652-1111
-#EXTINF:-1 group-title="Lista 19", CDM TV P
+#EXTINF:-1,CNN Espaæol
+http://190.90.18.161:15082/play/a03i/index.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://190.90.18.161:15082/play/a02h/index.m3u8
+#EXTINF:-1,DHE HD
+http://190.90.18.161:15082/play/a02w/index.m3u8
+#EXTINF:-1,Discovery H&H HD
+http://190.90.18.161:15082/play/a02l/index.m3u8
+#EXTINF:-1,Discovery Science
+http://190.90.18.161:15082/play/a02c/index.m3u8
+#EXTINF:-1,Discovery Theater HD
+http://190.90.18.161:15082/play/a02e/index.m3u8
+#EXTINF:-1,Discovery World HD
+http://190.90.18.161:15082/play/a02u/index.m3u8
+#EXTINF:-1,E! HD
+http://190.90.18.161:15082/play/a01y/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://190.90.18.161:15082/play/a025/index.m3u8
+#EXTINF:-1,FX HD
+http://190.90.18.161:15082/play/a03r/index.m3u8
+#EXTINF:-1,France 24
+http://190.90.18.161:15082/play/a03s/index.m3u8
+#EXTINF:-1,NTN24
+http://190.90.18.161:15082/play/a03o/index.m3u8
+#EXTINF:-1,NUESTRA TELE RCN
+http://190.90.18.161:15082/play/a03p/index.m3u8
+#EXTINF:-1,RCN RESPALDO
+http://190.90.18.161:15082/play/a03q/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://190.90.18.161:15082/play/a02n/index.m3u8
+#EXTINF:-1,TCM
+http://190.90.18.161:15082/play/a032/index.m3u8
 https://bgtv.site/play/bud-399.php?token=blablackgshost&c=4463-1111
 #EXTINF:-1 group-title="Lista 19", PUNTO 2 P
 https://bgtv.site/play/bud-399.php?token=blablackgshost&c=2269-1111
