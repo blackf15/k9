@@ -457,8 +457,6 @@ http://204.157.255.28:20001/play/a02x/index .m3u8
 http://204.157.255.28:20001/play/a02y/index.m3u8
 #EXTINF :-1,Nat Geo
 http://204.157.255.28:20001/play/a02t/index.m3u8
-#EXTINF :-1,Sin Límites
-http://204.157.255.28:20001/play/a04a/index.m3u8
 #EXTINF :-1,Sony
 http://204.157.255.28:20001/play/a03v/index.m3u8
 #EXTINF :-1,Espacio HD
