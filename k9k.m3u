@@ -751,3 +751,21 @@ http://45.228.234.41:16000/play/a0ax/index.m3u8
 http://bstv.online:8080/live/jorge17/jorge17/936.ts
 #EXTINF :-1 ,PARAMOUNT
 http://lunar.pm:8080/live/GerryH24/Sb56nt/115138.m3u8
+#EXTINF :-1 ,MOVISTAR SERIES
+http://sinlimitestv.com:8080/live/JU3459ANma/rv551801JARB/152828.m3u8
+#EXTINF :-1 ,DARK
+http://sinlimitestv.com:8080/live/JU3459ANma/rv551801JARB/152816.m3u8
+#EXTINF :-1 ,A3SERIES
+http://sinlimitestv.com:8080/live/JU3459ANma/rv551801JARB/152826.m3u8
+#EXTINF :-1 ,ANTENA 3
+http://sinlimitestv.com:8080/live/JU3459ANma/rv551801JARB/186956.m3u8
+#EXTINF :-1 ,DHE
+http://sinlimitestv.com:8080/live/JU3459ANma/rv551801JARB/173416.m3u8
+#EXTINF :-1 ,CINEMAX
+http://sinlimitestv.com:8080/live/JU3459ANma/rv551801JARB/173407.m3u8
+#EXTINF :-1 ,EUROPA EUROPA
+http://sinlimitestv.com:8080/live/JU3459ANma/rv551801JARB/173420.m3u8
+#EXTINF :-1 ,MULTICINEMA
+http://sinlimitestv.com:8080/live/JU3459ANma/rv551801JARB/298561.ts
+#EXTINF :-1 ,MULTIPREMIER
+http://sinlimitestv.com:8080/live/JU3459ANma/rv551801JARB/173462.ts
