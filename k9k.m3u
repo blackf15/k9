@@ -749,8 +749,6 @@ http://45.228.234.41:16000/play/a0ba/index.m3u8
 http://45.228.234.41:16000/play/a0ax/index.m3u8
 #EXTINF :-1 ,MOVISTAR GOLF
 http://bstv.online:8080/live/jorge17/jorge17/936.ts
-#EXTINF :-1 ,PARAMOUNT
-http://lunar.pm:8080/live/GerryH24/Sb56nt/115138.m3u8
 #EXTINF :-1 ,MOVISTAR SERIES
 http://sinlimitestv.com:8080/live/JU3459ANma/rv551801JARB/152828.m3u8
 #EXTINF :-1 ,DARK
