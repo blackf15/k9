@@ -967,3 +967,5 @@ http://168.228.194.32:48091/play/a08g/index.m3u8
 http://168.228.194.32:48091/play/a05r/index.m3u8
 #EXTINF:-1 group-title="General",FHD - Europa
 http://168.228.194.32:48091/play/a05x/index.m3u8
+#EXTINF:-1,LIFETIME
+http://181.209.173.10:9019/play/a01f/index.m3u8
