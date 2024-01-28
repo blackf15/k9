@@ -915,10 +915,6 @@ http://138.219.58.234:8112/play/017
 http://138.219.58.234:8112/play/ 021
 #EXTINF :-1,FAMILY
 http://138.219.58.234:8112/play/018
-#EXTINF :-1,NICKELODEON
-http://138.219.58.234:8112/play/014
-#EXTINF :-1,HBO XTREME HD
-http://138.219.58.234:8112/play/020
 # EXTINF :-1,MTV HD
 http://138.219.58.234:8112/play/132
 #EXTINF :-1,MX HD
@@ -969,3 +965,5 @@ http://138.219.58.234:8112/play/108
 http://cheaptv.online:8080/Mileta/81f55643/298164
 #EXTINF :-1,LIFETIME
 http://likea8bitboss.xyz:80/live/Richard463/8570246391/775839.ts
+#EXTINF :-1,HBO XTREME HD
+http://138.219.58.234:8112/play/020
