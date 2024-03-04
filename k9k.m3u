@@ -1349,3 +1349,5 @@ http://181.78.23.26:45000/play/a00e
 http://181.78.23.26:45000/play/a041
 #EXTINF:-1,LIFETIME
 http://200.125.170.120:8000/play/a0d0
+#EXTINF:-1,MC
+http://200.125.170.120:8000/play/a04c
