@@ -2527,5 +2527,7 @@ http://467121682466321477.starxo.xyz:80/live/XJA2243891/663452189648/321477.m3u8
 http://467121682466321443.starxo.xyz:80/live/XJA2243891/663452189648/321443.m3u8
 #EXTINF:-1 tvg-id="TCM HD" tvg-name="ES: TCM HD" tvg-logo="https://miguia.tv/channels/big_146.png" group-title="ES MOVISTAR+",ES: TCM HD
 http://467121682466321426.starxo.xyz:80/live/XJA2243891/663452189648/321426.m3u8
+#EXTINF:-1,TNT NOVELAS
+http://45.225.104.138:8000/play/a078/index.m3u8
 
 
