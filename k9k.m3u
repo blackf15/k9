@@ -1465,5 +1465,35 @@ https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 http://45.167.3.81:45000/play/a05e/index.m3u8
 #EXTINF:-1,TNT NOVELAS
 http://45.225.104.138:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN
+#EXTVLCOPT--http-reconnect=true
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN
+#EXTVLCOPT--http-reconnect=true
+https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN
+#EXTVLCOPT--http-reconnect=true
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN PLUS
+#EXTVLCOPT--http-reconnect=true
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN PLUS
+#EXTVLCOPT--http-reconnect=true
+https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN PREMIER
+#EXTVLCOPT--http-reconnect=true
+https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", EDGE
+#EXTVLCOPT--http-reconnect=true
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", DPELICULA
+#EXTVLCOPT--http-reconnect=true
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", DPELICULA PLUS
+#EXTVLCOPT--http-reconnect=true
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", DISTRITO COMEDIA
+#EXTVLCOPT--http-reconnect=true
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 
 
