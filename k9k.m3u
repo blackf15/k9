@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,PARAMOUNT
+http://170.82.37.21:8000/play/a02v/index.m3u8
 #EXTINF:-1,ESPN
 http://200.48.129.131:8000/play/a01g/index.m3u8
 #EXTINF:-1,A&E HD
