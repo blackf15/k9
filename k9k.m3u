@@ -1597,6 +1597,8 @@ http://160.20.165.246:8000/play/a00p/index.m3u8
 http://160.20.165.246:8000/play/a01d/index.m3u8
 #EXTINF:-1,ZOOM
 http://160.20.165.246:8000/play/a017/index.m3u8
+#EXTINF:-1,ESPN
+http://200.48.129.131:8000/play/a01g/index.m3u8
 
 
 
