@@ -1281,16 +1281,8 @@ http://181.78.105.146:6060/play/a046/index.m3u8
 http://181.78.105.146:6060/play/a03b/index.m3u8
 #EXTINF:-1,Warner
 http://181.78.105.146:6060/play/a02y/index.m3u8
-Home
-Videos
-1
-Messenger
-Notifications
-More
-that1nesguy5291
-Playlist Finder
-I am not the real Playlist Finder. I created this as the origi
-#EXTINF:-1 group-title="-",A&E
+
+#EXTINF:-1 group-title="-",A&E AXR AXR
 http://181.189.241.114:5050/play/a0rk
 #EXTINF:-1 group-title="-",AXN
 http://181.189.241.114:5050/play/a0rj
