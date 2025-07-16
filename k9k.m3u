@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1,MOVISTAR GOLF
 http://iptv.darktv.eu:80/Axel./xd5Bww45/56338
-#EXTINF:-1 tvg-id="multicinema.mx" tvg-name="Multicinema" tvg-logo="https://lgaz.cc/img/zvS17dF.png" group-title="Peliculas",Multicinema
+#EXTINF:-1,Multicinema
 http://gzytv.vip:8080/live/Ottplayer7222/ad1e5bb0fe79fd0d/be27b83f-1500-479c-8776-d21c1179e09b.m3u
-#EXTINF:-1 tvg-id="multipremier.mx" tvg-name="Multipremier" tvg-logo="https://i.ibb.co/27kyWsLb/mult.png" group-title="Peliculas",Multipremier
+#EXTINF:-1,Multipremier
 http://gzytv.vip:8080/live/Ottplayer7222/ad1e5bb0fe79fd0d/4d4ba0e5-e1fe-4a68-84bd-4463581d5ba7.m3u
-#EXTINF:-1 tvg-id="multipremier.mx" tvg-name="Multipremier HD" tvg-logo="https://i.ibb.co/27kyWsLb/mult.png" group-title="Peliculas",Multipremier HD
+#EXTINF:-1,Multipremier HD
 http://gzytv.vip:8080/live/Ottplayer7222/ad1e5bb0fe79fd0d/5933b9d7-1045-437f-b97e-efab90e6c30e.m3u
 #EXTINF:-1,CINEMAX
 http://45.4.1.130:5783/play/a03c/index.m3u8
