@@ -187,7 +187,6 @@ http://186.167.114.171:7136/play/a0sl/index.m3u8
 http://186.167.114.171:7136/play/a0t1/index.m3u8
 #EXTINF:-1 group-title="-",Win Sports+
 http://186.167.114.171:7136/play/a0l4/index.m3u8
-#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="eng",NAME="English",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="12/JOC",GROUP-ID="program_audio_0",URI="index_audio.m3u8"
 #EXTINF:-1,A&E HD
 http://148.222.228.3:9000/play/a08l/index.m3u8
 #EXTINF:-1,AMC HD
@@ -2218,6 +2217,7 @@ http://45.4.1.130:5783/play/a00q/index.m3u8
 http://45.4.1.130:5783/play/a00f/index.m3u8
 #EXTINF:-0, Zona Latina
 http://45.4.1.130:5783/play/a01p/index.m3u8
+
 
 
 
