@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,GOLDEN EDGE
+http://179.60.224.196:8000/play/a0fr/index.m3u8
 #EXTINF:-1,M+ GOLF FHD
 http://alexyatvcasa.xyz:8080/live/juancito98/4nc8UXcxeG38/394.ts
 #EXTINF:-1,M+ GOLF HD
@@ -1291,6 +1293,7 @@ http://190.61.34.164:8000/play/a017/index.m3u8
 http://190.61.34.164:8000/play/a034/index.m3u8
 #EXTINF:-1 group-title="-",ZOOMOO
 http://190.61.34.164:8000/play/a01a/index.m3u8
+
 
 
 
