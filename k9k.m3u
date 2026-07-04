@@ -1,22 +1,6 @@
 #EXTM3U
-#EXTINF:-1,GOLDEN EDGE
-http://179.60.224.196:8000/play/a0fr/index.m3u8
-#EXTINF:-1,M+ GOLF FHD
-http://alexyatvcasa.xyz:8080/live/juancito98/4nc8UXcxeG38/394.ts
-#EXTINF:-1,M+ GOLF HD
-http://alexyatvcasa.xyz:8080/juancito98/4nc8UXcxeG38/395
-#EXTINF:-1,M+ GOLF SD
-http://alexyatvcasa.xyz:8080/juancito98/4nc8UXcxeG38/396
-#EXTINF:-1,M+ GOLF 2 SD
-http://alexyatvcasa.xyz:8080/juancito98/4nc8UXcxeG38/397
-#EXTINF:-1,MOVISTAR GOLF
-http://iptv.darktv.eu:80/Axel./xd5Bww45/56338
-#EXTINF:-1,Multicinema
-http://gzytv.vip:8080/live/Ottplayer7222/ad1e5bb0fe79fd0d/be27b83f-1500-479c-8776-d21c1179e09b.m3u8
-#EXTINF:-1,Multipremier
-http://gzytv.vip:8080/live/Ottplayer7222/ad1e5bb0fe79fd0d/4d4ba0e5-e1fe-4a68-84bd-4463581d5ba7.m3u8
-#EXTINF:-1,Multipremier HD
-http://gzytv.vip:8080/live/Ottplayer7222/ad1e5bb0fe79fd0d/5933b9d7-1045-437f-b97e-efab90e6c30e.m3u8
+EXTINF:-1,MULTICINEMA
+http://45.190.184.79:5800/play/a02z/index.m3u8
 #EXTINF:-1,A&E HD
 http://200.125.170.120:8000/play/a02z
 #EXTINF:-1,AMC HD
